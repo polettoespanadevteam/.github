@@ -1,21 +1,33 @@
-## Poletto 1976 S.L.U.
-
-<small>We are a Spanish web development studio specialising in WooCommerce. We build focused, dependency-free open source plugins for stores that take performance and clarity seriously.</small>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/polettoespana/.github/main/profile/logo.png" width="80" alt="Poletto" /><br><br>
+  <strong>Poletto 1976 S.L.U.</strong><br>
+  <sub>Full-stack studio · Elche, Spain · 29 years · 100+ projects</sub>
+</div>
 
 ---
 
-### Open source plugins
+We build web applications, custom software, and open source tools. Our work spans e-commerce, cloud infrastructure, API design, and accessibility — always with a focus on clarity and long-term maintainability.
+
+**Fractional CTO** &nbsp;·&nbsp; **Full-Stack Development** &nbsp;·&nbsp; **Technology Strategy** &nbsp;·&nbsp; **API & System Integration** &nbsp;·&nbsp; **Accessibility (WCAG/EAA)** &nbsp;·&nbsp; **Scalable Cloud Infrastructure**
+
+---
+
+### Open source
 
 **[CartTrigger – Quantity Discounts](https://github.com/polettoespana/carttrigger-quantity-discount-)**
-<br><small>Automatic cart discounts triggered by item quantity. Configurable rules, category & SKU filters, coupon conflict modes. No JavaScript, no external dependencies.</small>
+<br><sub>WooCommerce · automatic cart discounts triggered by item quantity. Configurable rules, category & SKU filters, coupon conflict modes. Zero dependencies.</sub>
 
 **[CartTrigger – BAG](https://github.com/polettoespana/carttrigger-bag)**
-<br><small>Brand · Awards · Gallery — extends the WooCommerce brand taxonomy with custom fields, award badges and image galleries. Shortcodes and PHP helpers, drag & drop admin UI.</small>
+<br><sub>WooCommerce · Brand · Awards · Gallery. Extends the native brand taxonomy with custom fields, award badges and image galleries. Shortcodes, PHP helpers, drag & drop admin UI.</sub>
 
 ---
 
-<small>
+### Stack
 
-[poletto.es](https://poletto.es) &nbsp;·&nbsp; [info@poletto.es](mailto:info@poletto.es)
+<sub>PHP · Python · Golang · Ruby · JavaScript · TypeScript · React · Ruby on Rails · PostgreSQL · MySQL · MongoDB · Redis · Supabase · Oracle · OCPP · Blockchain & Smart Contracts</sub>
 
-</small>
+---
+
+<div align="center">
+  <sub><a href="https://poletto.es">poletto.es</a> &nbsp;·&nbsp; <a href="mailto:info@poletto.es">info@poletto.es</a></sub>
+</div>
