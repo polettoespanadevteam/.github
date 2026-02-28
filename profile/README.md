@@ -6,14 +6,14 @@
 
 <br>
 
-At [Poletto 1976](https://github.com/polettoes/) we build web applications, custom software, and open source tools.<br>Our work spans e-commerce, cloud infrastructure, API design, and accessibility — always with a focus on clarity and long-term maintainability.
+At [Poletto 1976](https://github.com/polettoespana/) we build web applications, custom software, and open source tools.<br>Our work spans e-commerce, cloud infrastructure, API design, and accessibility — always with a focus on clarity and long-term maintainability.
 
 ### Open source
 
-**[CartTrigger – Quantity Discounts](https://github.com/polettoes/carttrigger-quantity-discount-)**
+**[CartTrigger – Quantity Discounts](https://github.com/polettoespana/carttrigger-quantity-discount-)**
 <br>WooCommerce · automatic cart discounts triggered by item quantity. Configurable rules, category & SKU filters, coupon conflict modes. Zero dependencies.
 
-**[CartTrigger – BAG](https://github.com/polettoes/carttrigger-bag)**
+**[CartTrigger – BAG](https://github.com/polettoespana/carttrigger-bag)**
 <br>WooCommerce · Brand · Awards · Gallery. Extends the native brand taxonomy with custom fields, award badges and image galleries. Shortcodes, PHP helpers, drag & drop admin UI.
 
 ### Stack
