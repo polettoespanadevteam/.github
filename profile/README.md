@@ -4,6 +4,9 @@
   <span>Elche, Spain</span>
 </div>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=0a0a23&width=520&lines=A+team+of+many+kinds.;From+a
+  ll+over+the+world.;When+not+staring+at+the+sea...;...we+build+useful+things.;And+fun+ones.+At+Poletto+1976." alt="Typing SVG" />
+
 <br>
 
 At [Poletto 1976](https://github.com/polettoespana/) we build web applications, custom software, and open source tools.<br>Our work spans e-commerce, cloud infrastructure, API design, and accessibility — always with a focus on clarity and long-term maintainability.
