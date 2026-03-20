@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/polettoespanadevteam/.github/main/profile/devteam.gif" alt="terminal" width="800" />
-</p>
+<div align="center">
 
-<br>
+  <strong>Poletto 1976 · Dev Team</strong>
 
-At [Poletto 1976](https://github.com/polettoespana/) we build web applications, custom software, and open source tools. Our work spans e-commerce, cloud infrastructure, API design, and accessibility — always with a focus on clarity and long-term maintainability.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=0a0a23&center=true&vCenter=true&width=480&lines=We+build+web+applications.;Custom+software+and+open+source+tools.;E-commerce%2C+cloud%2C+API+design.;Clarity+and+long-term+maintainability.)](https://poletto.es)
+
+</div>
 
 ### Open source
 
