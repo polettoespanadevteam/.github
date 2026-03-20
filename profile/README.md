@@ -15,7 +15,7 @@
 
 ### Stack
 
-<samp>PHP · Python · Golang · Ruby · JavaScript · TypeScript · React · Ruby on Rails · PostgreSQL · MySQL · MongoDB · Redis · Supabase · Oracle · OCPP · Blockchain & Smart Contracts</samp>
+<samp>PHP · Python · Golang · Ruby · JavaScript · TypeScript · React · Ruby on Rails · Laravel · Jamstack · PostgreSQL · MySQL · MongoDB · Redis · Supabase · Oracle · OCPP · Blockchain & Smart Contracts</samp>
 
 <br>
 
