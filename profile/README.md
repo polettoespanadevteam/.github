@@ -16,6 +16,9 @@ At [Poletto 1976](https://github.com/polettoespana/) we build web applications, 
 **[CartTrigger – BAG](https://github.com/polettoespana/carttrigger-bag)**
 <br>WooCommerce · Brand · Awards · Gallery. Extends the native brand taxonomy with custom fields, award badges and image galleries. Shortcodes, PHP helpers, drag & drop admin UI.
 
+**[CartTrigger – Holded Sync](https://github.com/polettoespana/carttrigger-holded-sync)** _(work in progress)_
+<br>WooCommerce · bidirectional sync with Holded ERP. Real-time product and stock push (WC → Holded), scheduled pull via Action Scheduler (Holded → WC). Tax-inclusive price handling, warehouse selection.
+
 ### Stack
 
 PHP · Python · Golang · Ruby · JavaScript · TypeScript · React · Ruby on Rails · PostgreSQL · MySQL · MongoDB · Redis · Supabase · Oracle · OCPP · Blockchain & Smart Contracts
