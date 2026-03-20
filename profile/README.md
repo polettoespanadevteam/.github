@@ -1,34 +1,31 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/polettoespana/.github/main/profile/logo.png" width="80" alt="Poletto" /><br><br>
-  <strong>Poletto 1976 / Developer Team</strong><br>
-  <span>Elche, Spain</span>
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/polettoespanadevteam/.github/main/profile/devteam.gif" alt="terminal" width="800" />
+</p>
 
-<br>
+```sh
+❯ ls -la open-source/
+```
 
-<img src="https://raw.githubusercontent.com/polettoespanadevteam/.github/main/profile/devteam.gif" alt="terminal" />
+```
+carttrigger-quantity-discounts/   WooCommerce · cart discounts by quantity. Rules, filters, coupon modes.
+carttrigger-bag/                  WooCommerce · Brand · Awards · Gallery. Custom fields, badges, galleries.
+carttrigger-holded-sync/          WooCommerce · bidirectional sync with Holded ERP.  [work in progress]
+```
 
-<br>
+```sh
+❯ cat stack.txt
+```
 
-At [Poletto 1976](https://github.com/polettoespana/) we build web applications, custom software, and open source tools.<br>Our work spans e-commerce, cloud infrastructure, API design, and accessibility — always with a focus on clarity and long-term maintainability.
+```
+PHP · Python · Golang · Ruby · JavaScript · TypeScript · React · Rails
+PostgreSQL · MySQL · MongoDB · Redis · Supabase · Oracle
+OCPP · Blockchain & Smart Contracts
+```
 
-### Open source
+```sh
+❯ curl poletto.es
+```
 
-**[CartTrigger – Quantity Discounts](https://github.com/polettoespana/carttrigger-quantity-discounts)**
-<br>WooCommerce · automatic cart discounts triggered by item quantity. Configurable rules, category & SKU filters, coupon conflict modes. Zero dependencies.
-
-**[CartTrigger – BAG](https://github.com/polettoespana/carttrigger-bag)**
-<br>WooCommerce · Brand · Awards · Gallery. Extends the native brand taxonomy with custom fields, award badges and image galleries. Shortcodes, PHP helpers, drag & drop admin UI.
-
-**[CartTrigger – Holded Sync](https://github.com/polettoespana/carttrigger-holded-sync)** _(work in progress)_
-<br>WooCommerce · bidirectional sync with Holded ERP. Real-time product and stock push (WC → Holded), scheduled pull via Action Scheduler (Holded → WC). Tax-inclusive price handling, warehouse selection.
-
-### Stack
-
-PHP · Python · Golang · Ruby · JavaScript · TypeScript · React · Ruby on Rails · PostgreSQL · MySQL · MongoDB · Redis · Supabase · Oracle · OCPP · Blockchain & Smart Contracts
-
-<br>
-
-<div align="center">
-  <a href="https://poletto.es">poletto.es</a> &nbsp;·&nbsp; <a href="mailto:info@poletto.es">info@poletto.es</a>
-</div>
+```
+→  https://poletto.es       info@poletto.es
+```
