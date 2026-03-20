@@ -5,17 +5,17 @@
 ### Open source
 
 **[CartTrigger – Quantity Discounts](https://github.com/polettoespana/carttrigger-quantity-discounts)**
-<br>WooCommerce · automatic cart discounts triggered by item quantity. Configurable rules, category & SKU filters, coupon conflict modes. Zero dependencies.
+<br><samp>WooCommerce · automatic cart discounts triggered by item quantity. Configurable rules, category & SKU filters, coupon conflict modes. Zero dependencies.</samp>
 
 **[CartTrigger – BAG](https://github.com/polettoespana/carttrigger-bag)**
-<br>WooCommerce · Brand · Awards · Gallery. Extends the native brand taxonomy with custom fields, award badges and image galleries. Shortcodes, PHP helpers, drag & drop admin UI.
+<br><samp>WooCommerce · Brand · Awards · Gallery. Extends the native brand taxonomy with custom fields, award badges and image galleries. Shortcodes, PHP helpers, drag & drop admin UI.</samp>
 
 **[CartTrigger – Holded Sync](https://github.com/polettoespana/carttrigger-holded-sync)** _(work in progress)_
-<br>WooCommerce · bidirectional sync with Holded ERP. Real-time product and stock push (WC → Holded), scheduled pull via Action Scheduler (Holded → WC). Tax-inclusive price handling, warehouse selection.
+<br><samp>WooCommerce · bidirectional sync with Holded ERP. Real-time product and stock push (WC → Holded), scheduled pull via Action Scheduler (Holded → WC). Tax-inclusive price handling, warehouse selection.</samp>
 
 ### Stack
 
-PHP · Python · Golang · Ruby · JavaScript · TypeScript · React · Ruby on Rails · PostgreSQL · MySQL · MongoDB · Redis · Supabase · Oracle · OCPP · Blockchain & Smart Contracts
+<samp>PHP · Python · Golang · Ruby · JavaScript · TypeScript · React · Ruby on Rails · PostgreSQL · MySQL · MongoDB · Redis · Supabase · Oracle · OCPP · Blockchain & Smart Contracts</samp>
 
 <br>
 
