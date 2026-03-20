@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/polettoespana/.github/main/profile/logo.png" width="80" alt="Poletto" /><br><br>
   <strong>Poletto 1976 / Developer Team</strong><br>
-  <span>Elche, Spain · 100+ projects</span>
+  <span>Elche, Spain</span>
 </div>
 
 <br>
