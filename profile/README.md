@@ -4,8 +4,9 @@
   <span>Elche, Spain</span>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=0a0a23&width=520&lines=A+team+of+many+kinds.;From+a
-  ll+over+the+world.;When+not+staring+at+the+sea...;...we+build+useful+things.;And+fun+ones.+At+Poletto+1976." alt="Typing SVG" />
+<br>
+
+<img src="https://raw.githubusercontent.com/polettoespanadevteam/.github/main/profile/devteam.gif" alt="terminal" />
 
 <br>
 
@@ -13,7 +14,7 @@ At [Poletto 1976](https://github.com/polettoespana/) we build web applications, 
 
 ### Open source
 
-**[CartTrigger – Quantity Discounts](https://github.com/polettoespana/carttrigger-quantity-discount-)**
+**[CartTrigger – Quantity Discounts](https://github.com/polettoespana/carttrigger-quantity-discounts)**
 <br>WooCommerce · automatic cart discounts triggered by item quantity. Configurable rules, category & SKU filters, coupon conflict modes. Zero dependencies.
 
 **[CartTrigger – BAG](https://github.com/polettoespana/carttrigger-bag)**
